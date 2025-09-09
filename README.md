@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi 👋, I'm Rajbir Yadav
+Computer Engineering Student (Polytechnic, 3rd Year) · Web Development Enthusiast  
 
-<!--
-**Rajbir-Yadav/Rajbir-Yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github.com/Rajbir-Yadav
 
-Here are some ideas to get you started:
+🔭 About me
+- Passionate about building clean, responsive websites and simple full-stack apps.  
+- Comfortable with HTML, CSS, JavaScript, Python, SQL, Kotlin (Beginner → Improving Daily).  
+- Currently building portfolio projects and learning Flask / React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills
+- Languages: Python, JavaScript, SQL, Kotlin  
+- Web: HTML, CSS, Bootstrap / Tailwind, Vanilla JS  
+- Tools: Git, GitHub, VS Code, Chrome DevTools
+
+💼 Projects
+- Portfolio Website — personal site showcasing projects (coming soon).  
+- Weather App — Android app using weather API (Kotlin).  
+- To-Do App — Android productivity app (Kotlin).
+
+> 🔗 Live / repos: see pinned repos on my profile.
+
+📫 Contact
+- Email: rajbiryadav.dev@gmail.com 
+
+---
+
