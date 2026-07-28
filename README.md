@@ -1,27 +1,78 @@
-Hi 👋, I'm Rajbir Yadav
-Computer Engineering Student (Polytechnic, 3rd Year) · Web Development Enthusiast  
+ Hi there! 👋 I'm <Your Name>
 
-https://github.com/Rajbir-Yadav
+ 👨‍💻 About Me
 
-🔭 About me
-- Passionate about building clean, responsive websites and simple full-stack apps.  
-- Comfortable with HTML, CSS, JavaScript, Python, SQL, Kotlin (Beginner → Improving Daily).  
-- Currently building portfolio projects and learning Flask / React.
+I'm a Computer Science Engineering student with a strong interest in software development, problem solving, and building practical applications.
 
-🛠️ Skills
-- Languages: Python, JavaScript, SQL, Kotlin  
-- Web: HTML, CSS, Bootstrap / Tailwind, Vanilla JS  
-- Tools: Git, GitHub, VS Code, Chrome DevTools
+- 🎓 B.Tech in Computer Science Engineering (Lateral Entry)  
+  Deenbandhu Chhotu Ram University of Science and Technology (DCRUST), Murthal  
+  2026 – 2029
 
-💼 Projects
-- Portfolio Website — personal site showcasing projects (coming soon).  
-- Weather App — Android app using weather API (Kotlin).  
-- To-Do App — Android productivity app (Kotlin).
-
-> 🔗 Live / repos: see pinned repos on my profile.
-
-📫 Contact
-- Email: rajbiryadav.dev@gmail.com 
+- 🎓 Diploma in Computer Science Engineering (Polytechnic)  
+  Government Polytechnic Sonipat  
+  Completed in 2026
 
 ---
 
+ 🚀 Current Focus
+
+- Data Structures & Algorithms
+- C++
+- Full Stack Development
+- Computer Science Fundamentals
+- Building practical software projects
+- Open Source & GitHub
+
+---
+
+💻 Tech Stack-
+
+Languages-------
+- C++
+- Python
+- HTML
+- CSS
+
+Tools------
+- Git
+- GitHub
+- VS Code
+
+---
+
+ 📂 What You'll Find Here
+
+This GitHub is where I document my learning journey through:
+
+- Academic coursework
+- DSA practice
+- Mini Projects
+- Full Stack projects
+- Experiments with new technologies
+
+---
+
+ 📚 Currently Learning
+
+- Data Structures
+- Computer Organization
+- Digital System Design
+- Full Stack Development
+
+---
+
+ 🌱 Always Learning
+
+I enjoy learning new technologies, improving my problem-solving skills, and building projects that strengthen my understanding of Computer Science.
+
+---
+
+ 📫 Connect With Me
+
+- LinkedIn: Coming Soon
+- Portfolio: Coming Soon
+- Email: rajbiryadav.dev@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
